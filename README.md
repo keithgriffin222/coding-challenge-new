@@ -1,6 +1,6 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Shopping_cart_0"></a><strong>Shopping cart</strong></h1>
 <h3 class="code-line" data-line-start=2 data-line-end=3 ><a id="_How_to_run_the_app__2"></a><em>How to run the app?</em></h3>
-<p class="has-line-data" data-line-start="3" data-line-end="4">Runnin the app is fairly straight forward:</p>
+<p class="has-line-data" data-line-start="3" data-line-end="4">Running the app is fairly straight forward:</p>
 <ol>
 <li class="has-line-data" data-line-start="4" data-line-end="5">Open it up.</li>
 <li class="has-line-data" data-line-start="5" data-line-end="6">For any item you want to purchase (under the heading ‘ITEMS’) click “add to cart”. This will save your purchase to a cart list (under the heading ‘CART’).</li>
